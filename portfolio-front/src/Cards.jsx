@@ -28,7 +28,7 @@ const StyledWrapper = styled.div`
   }
 
   .card {
-    --bg-card: #27272a;
+    --bg-card: #353538;
     --primary: #6d28d9;
     --primary-800: #4c1d95;
     --primary-shadow: #2e1065;
